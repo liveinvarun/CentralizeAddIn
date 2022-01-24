@@ -1,0 +1,2 @@
+# CentralizeAddIn
+Centralizes the references
